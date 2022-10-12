@@ -1,0 +1,45 @@
+/* Container is focused for Desktop view */
+.container {
+    width : 100%;
+   height: 150;
+    background: #ff6ae7da;
+   color:#ff152a ;
+   font-family: monospace;
+   text-align: center;
+}
+
+.left{
+    width: 49%;
+    float: left;
+    margin-top: 5rem;
+    height: 400px;
+}
+
+.right{
+width: 49%;
+    float: right;
+    margin-top: 5rem;
+    height: 400px;
+}
+
+.plain{
+    width: 100%;
+    height: 705px;
+    margin-top:35rem;
+    background: #ff6ae7da;
+}
+
+.font{
+    font-family: monospace;
+    font-weight: bold ;
+    color: #1100ff;
+}
+
+footer{
+    background: #ff8955;
+}
+th{
+width: 29%;
+    height: 400px;
+}
+
